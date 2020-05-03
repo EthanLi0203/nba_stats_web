@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "csvtojson": "^2.0.10",
+    "file-exists": "^5.0.1",
+    "fs": "0.0.1-security",
+    "isomorphic-fetch": "^2.2.1",
     "next": "9.3.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "nprogress": "^0.2.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
+    "react-dom": "^16.13.1",
+    "react-load-image": "^0.1.7",
+    "react-render-html": "^0.6.0",
+    "reactstrap": "^8.4.1"
   }
 }
